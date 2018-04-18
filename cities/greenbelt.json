@@ -1,0 +1,17 @@
+{
+    "name":     "Greenbelt",
+    "state":    "MD",
+    "high":     {
+        "avg":  19.1,
+        "std":  2.9
+    },
+    "low":      {
+        "avg":  5.3,
+        "std":  2.9
+    },
+    "precip":   {
+        "yamt": 1053.0,
+        "std":  25.0,
+        "days": 130.0
+    }
+}
